@@ -1,0 +1,67 @@
+
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-family:oblique;
+    color:red;
+}
+.link {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    padding:30px;
+    margin:30px;
+    background-color:red;
+    text-align: center;
+}
+
+img {
+     margin-right: auto;
+     color: red;
+    
+}
+
+body { 
+    background-color:black;
+}
+
+p {font-family: oblique;
+   color: red; 
+}
+
+.grid {
+  border::;
+  width: 399px;
+  height: 438px;
+  display: grid;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 100px;
+}
+
+
+
+.aboutme {
+    display: inline-block;
+    width:70%;
+    float: right;
+}
+
+.aboutmepicture {
+    display:inline-block;
+    float:left;
+    
+    {
+    font-family:oblique;
+    color:red;
+}
